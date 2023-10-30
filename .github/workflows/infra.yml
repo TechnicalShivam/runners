@@ -27,6 +27,6 @@ jobs:
 
       # Runs a set of commands using the runners shell
      
-      - name: Sleep for 30 minutes
-        run: sleep 1800s
+      - name: Sleep for 5 minutes
+        run: sleep 300s
         shell: bash
